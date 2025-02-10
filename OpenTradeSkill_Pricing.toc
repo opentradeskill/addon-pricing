@@ -1,0 +1,9 @@
+## Interface: 110000
+## Title: OpenTradeSkill Pricing
+## Notes: Open source tradeskill & price database
+## Author: ellieplayswow
+## Version: v1.0.0-beta1
+
+Init.lua
+PriceData.lua
+Tooltips.lua
